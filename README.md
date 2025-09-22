@@ -9,6 +9,15 @@ This EA automates Smart Money Concepts (SMC) trading with adaptive ATR/session/r
   <strong>🚀 60%+ to 300%+ RETURNS Yearly on XAUUSD CFDs with proper finetuned parameters!! 💰🔥</strong>
 </p>
 
+## How is this possible ❓
+
+Institutions move markets with massive orders, but retail traders like us can still spot their footprints and ride along for some smart profits 😉:
+
+💡 𝗢𝗿𝗱𝗲𝗿 𝗕𝗹𝗼𝗰𝗸𝘀: Financial institutions split their huge orders into smaller chunks so that they get their orders filled at better prices. Price of the asset often revisits these levels, giving us a chance to enter.
+
+💡 𝗙𝗮𝗶𝗿 𝗩𝗮𝗹𝘂𝗲 𝗚𝗮𝗽𝘀 (𝗙𝗩𝗚𝘀): The sudden price jump from such large orders create a hole in the market that price has to come back and “fill” – a repeatable edge.
+
+💡 𝗕𝗿𝗲𝗮𝗸 𝗼𝗳 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 (𝗕𝗢𝗦): When price smashes through a key order block zone, it often signals the start of a new trend.
 
 ---
 
