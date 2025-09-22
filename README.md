@@ -29,15 +29,14 @@ This EA automates Smart Money Concepts (SMC) trading with adaptive ATR/session/r
 
 To run the EA, you’ll need a **MetaTrader 5 broker account**. Recommended brokers:
 
-* [Pepperstone MT5](#) *(Insert your affiliate link)*
-* [IC Markets MT5](#) *(Insert your affiliate link)*
+* [Pepperstone MT5](https://pepperstone.com/en/) *(Please mention my email vignesh.k@skybluefin.tech or k_vignesh@hotmail.com in the 'How did you hear of us' section under ‘account preferences’ when signing up to enjoy 20 commission-free trades.)*
+* [IC Markets MT5](https://www.icmarkets.com/global/en/) 
 
 Both are trusted CFD brokers offering low spreads and reliable execution.
 
 ### 2. Download MetaTrader 5
 
-* [Download MT5 for Windows](https://www.metatrader5.com/en/download)
-* [Download MT5 for Mac](https://www.metatrader5.com/en/download)
+* [Download MT5 from Official Website](https://www.metatrader5.com/en/download)
 
 ### 3. Install the EA
 
@@ -73,7 +72,7 @@ Both are trusted CFD brokers offering low spreads and reliable execution.
 
 ## 📊 Backtesting & Deployment
 
-1. Open **MT5 Strategy Tester** → Select `SMC_Unified_EA_v2`.
+1. Open **MT5 Strategy Tester** → Select `EA_Script` or the name you saved your EA as.
 2. Choose symbol (e.g., **XAUUSD, EURUSD**) & timeframe.
 3. Select **Every Tick** for best accuracy.
 4. Configure parameters → Run backtest → View reports & graphs.
