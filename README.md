@@ -19,8 +19,6 @@ Institutions move markets with massive orders, but retail traders like us can st
 
 💡 𝗕𝗿𝗲𝗮𝗸 𝗼𝗳 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 (𝗕𝗢𝗦): When price smashes through a key order block zone, it often signals the start of a new trend.
 
----
-
 ## ✨ Features
 
 * **3 Strategy Modes**: Order Blocks (OB), Fair Value Gaps (FVG), Break of Structure (BOS), or Auto (combines all).
@@ -29,8 +27,6 @@ Institutions move markets with massive orders, but retail traders like us can st
 * **Regime Detection**: ADX or Efficiency Ratio to trade only in trending markets.
 * **Equity Bagging System**: Automatically locks profits and caps losses at account equity levels.
 * **Flexible Risk Management**: Position sizing per \$1,000 balance, ATR-based SL/TP.
-
----
 
 ## ⚡ Getting Started
 
@@ -54,8 +50,6 @@ Both are trusted CFD brokers offering low spreads and reliable execution.
 3. Save `EA_Script.mq5` here
 4. Or open **MetaEditor** (MT5 IDE), create a new Expert Advisor with desired name, and copy-paste the code.
 5. Click **Compile** → EA is now ready under *Navigator → Expert Advisors*.
-
----
 
 ## ⚙️ Input Parameters
 
@@ -89,11 +83,29 @@ Both are trusted CFD brokers offering low spreads and reliable execution.
 
 *(Tip: Always start on a demo account before going live!)*
 
----
-
 ## ⚠️ Disclaimer
 
 CFD trading is **high risk** and not suitable for all investors. This EA is provided **for educational and research purposes only**. It is **not financial advice** and past performance does not guarantee future results. Use at your own discretion and risk.
+
+## 💼 Hire Me / Consulting
+
+<i>If this project caught your eye — this is just the beginning. This SMC trading bot is one of over half a dozen algorithmic strategies I’ve researched, tested, and built from scratch, which all have the potential of giving jaw-dropping returns. 🤑</i>
+
+✌🏾 I’m **Vig**, a FinTech innovator and data-driven engineer from Singapore, who has built production-ready Expert Advisor trading bots, [ML-powered market insights platforms](https://www.insaights.fyi), and scalable data systems. I’m now looking to bring my skills to the institutional side of trading and data engineering:
+
+📊 Handling larger, more complex datasets and infrastructures
+
+🏦 Learning from seasoned experts in professional finance & technology
+
+🚀 Applying my creativity and quantitative mindset to contribute to impactful solutions
+
+**If you’re an institution, hedge fund, fintech, or quant team and are impressed by this work, let’s connect.** Whether it’s a full-time role or consulting collaboration, I’d love to discuss how I can bring value to your team.
+
+📬 Reach me here: 
+
+ • [LinkedIn](https://www.linkedin.com/in/kvignesh122)
+ 
+ • ✉️ vig.kvel@gmail.com
 
 ---
 
