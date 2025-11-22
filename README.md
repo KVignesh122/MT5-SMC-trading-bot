@@ -32,12 +32,12 @@ Institutions move markets with massive orders, but retail traders like us can st
 
 ### 1. Open a Trading Account
 
-To run the EA, you’ll need a **MetaTrader 5 broker account**. Recommended brokers:
+To run the EA, you’ll need a **MetaTrader 5 broker account**. Recommended broker, click signup with my referral link:
 
-* [Pepperstone MT5](https://pepperstone.com/en/) *(Please mention my email vignesh.k@skybluefin.tech or k_vignesh@hotmail.com in the 'How did you hear of us' section under ‘account preferences’ when signing up to enjoy 20 commission-free trades.)*
-* [IC Markets MT5](https://www.icmarkets.com/global/en/) 
+* [Pepperstone MT5](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=41491)
+_**Choose Pepperstone Razor Account type for optimal bot functionality and low spreads.**_
 
-Both are trusted CFD brokers offering low spreads and reliable execution.
+Pepperstone is a trusted CFD broker regulated in multiple jurisdictions, offering low spreads and reliable execution. 
 
 ### 2. Download MetaTrader 5
 
