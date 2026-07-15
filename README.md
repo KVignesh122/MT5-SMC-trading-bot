@@ -1,3 +1,11 @@
+> **Looking for stabilized versions of my live trading strategies/bots?**
+>
+> Check out **SkyBlue HorizonEdge** series (**HE Alex** and **HE Realm**): [skybluefin.tech/HorizonEdge](https://skybluefin.tech/HorizonEdge)
+>
+> Setup instructions: [skybluefin.tech/HE-Setup](https://skybluefin.tech/HE-Setup)
+>
+> After setup, message me so I can guide you on configuring the stop-loss killswitch.
+
 # SMC Unified Expert Advisor Trading Bot for MetaTrader5 ✨
 
 **Order Blocks • Fair Value Gaps • Break of Structure • Adaptive Filters • Equity Bagging**
